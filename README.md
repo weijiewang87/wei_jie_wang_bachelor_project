@@ -20,8 +20,13 @@ In this folder there are 5 excel files.
 - **quantization_16x8:** It contains both the true labels and the results from the 16 activation and 8 weight quantized model.
 
 
-## Training and Validation Data
+## Google Drive
+https://drive.google.com/drive/folders/1ONyU1p6EDwMY8ug632hYzcuPlLoNHgDo?usp=sharing  
 
-If you are looking for the training and validation data that I used for this project, then you click the link below.
-https://drive.google.com/drive/folders/1ONyU1p6EDwMY8ug632hYzcuPlLoNHgDo?usp=sharing    
-Since the file is too big for GitHub, I have uploaded them on Google Drive.
+#### Training and Validation Data
+
+If you are looking for the training and validation data that I used for this project, then please go to the Google Drive and visit the **Train Validation Test Data** folder.
+
+#### Original Videos
+
+If you are looking for the original videos that Howells et al. provided, then please visit **Howells et al. Meter A and Meter B videos** folder.
