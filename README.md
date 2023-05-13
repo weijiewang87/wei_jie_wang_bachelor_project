@@ -1,6 +1,6 @@
-# My Bachelor Project
+# Wei-Jie Wang's Bachelor Project
 
-This repository contains the code and resources for my Bachelor Project.
+Thank you for visiting this repository.
 
 ## Report
 
@@ -12,4 +12,13 @@ The "Test Data" folder contains the dataset used for testing and evaluating the 
 
 ## Training and Validation Data
 
-The "Training and Validation Data" folder contains the datasets used to train and validate the models in my Bachelor Project. It includes labeled samples that were used to train the machine learning algorithms, as well as separate data for validating the model's performance during the development process. Instructions for using the training and validation data are provided within the folder.
+If you are looking for the training and validation data that I used for this project, then you click the link below.
+
+Since the file is too big for GitHub, I have uploaded them on Google Drive.
+
+## true_labels_and_prediction_results
+
+In this folder there are 5 excel files.
+- **true_label:** It contains the true values and angles of the test images 
+- **batch:** determine batch size
+- **epochs:** define the number of training epochs. (Note: often, 3000+ are 
