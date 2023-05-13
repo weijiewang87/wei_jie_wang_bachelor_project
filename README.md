@@ -4,11 +4,11 @@ Thank you for visiting this repository.
 
 ## howells_prediction
 
-The "Report" folder contains the written document summarizing my Bachelor Project. It includes detailed information about the project, methodology, results, and conclusions. Feel free to explore the report to gain a comprehensive understanding of the project.
+This folder contains the Howells et al.'s predictions in six JSON files.
 
 ## test_images
 
-The "Test Data" folder contains the dataset used for testing and evaluating the project. It includes a set of representative data samples to assess the performance and accuracy of the developed solution. Instructions for using the test data are provided within the folder.
+This contains 90 test images.
 
 ## true_labels_and_prediction_results
 
@@ -18,7 +18,6 @@ In this folder there are 5 excel files.
 - **quantization_dynamic:** It contains both the true labels and the results from the dynamic quantized model.
 - **quantization_float16:** It contains both the true labels and the results from the float16 quantized model.
 - **quantization_16x8:** It contains both the true labels and the results from the 16 activation and 8 weight quantized model.
-
 
 ## Google Drive
 https://drive.google.com/drive/folders/1ONyU1p6EDwMY8ug632hYzcuPlLoNHgDo?usp=sharing  
