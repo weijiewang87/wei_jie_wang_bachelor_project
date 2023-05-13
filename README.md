@@ -23,5 +23,5 @@ In this folder there are 5 excel files.
 ## Training and Validation Data
 
 If you are looking for the training and validation data that I used for this project, then you click the link below.
-
+https://drive.google.com/drive/folders/1ONyU1p6EDwMY8ug632hYzcuPlLoNHgDo?usp=sharing
 Since the file is too big for GitHub, I have uploaded them on Google Drive.
