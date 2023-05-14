@@ -10,6 +10,15 @@ This folder contains Howells et al.'s predictions in six JSON files.
 
 This contains 90 test images.
 
+## trained_models
+
+In this folder, there is one pytorch model that was the best performing one during 100 epochs.   
+And, there are three quantized models that were originally from the pytorch model.
+
+## training_result_images
+
+This folder contains several images that show the model training results.
+
 ## true_labels_and_prediction_results
 
 In this folder there are 5 excel files.
