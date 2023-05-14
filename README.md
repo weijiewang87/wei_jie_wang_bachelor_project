@@ -4,7 +4,7 @@ Thank you for visiting this repository.
 
 ## howells_prediction
 
-This folder contains the Howells et al.'s predictions in six JSON files.
+This folder contains Howells et al.'s predictions in six JSON files.
 
 ## test_images
 
