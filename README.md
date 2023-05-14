@@ -13,7 +13,7 @@ This contains 90 test images.
 ## trained_models
 
 In this folder, there is one pytorch model that was the best performing one during 100 epochs.   
-And, there are three quantized models that were originally from the pytorch model.
+And, there are three quantized models that went through different quantization techniques.
 
 ## training_result_images
 
